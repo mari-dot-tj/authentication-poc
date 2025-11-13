@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio / dotnet CLI compatible
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ansorg.Api", "src\Ansorg.Api\Ansorg.Api.csproj", "{8EAD3C58-5A37-4E35-8F0C-8A6582A3E6B5}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {8EAD3C58-5A37-4E35-8F0C-8A6582A3E6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {8EAD3C58-5A37-4E35-8F0C-8A6582A3E6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {8EAD3C58-5A37-4E35-8F0C-8A6582A3E6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {8EAD3C58-5A37-4E35-8F0C-8A6582A3E6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+EndGlobal
